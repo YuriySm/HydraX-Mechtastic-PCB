@@ -1,8 +1,46 @@
-*-bak
-*-cache*
-*-bak*
-_autosave*
+# https://gist.github.com/cowboy/71a35998640eb5a6c50680c979b35187
+
+# Adapted from:
+# https://github.com/github/gitignore/blob/master/KiCad.gitignore
+
+# For PCBs designed using KiCad: http://www.kicad-pcb.org/
+# Format documentation: http://kicad-pcb.org/help/file-formats/
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+/build
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Footprint association file (exported from Pcbnew)
+*.cmp
+
+# Exported BOM files
+*.xml
+*.csv
+*.tsv
+
+# Misc
+*.log
+*.raw
+.svg2shenzhen-cache
+
 .DS_Store
-Hydra Base/Hydra Base-backups/*.zip
-meshtastic-diy-backups/*.zip
-Hydra Base/Hydra Base-backups/Hydra Base-2022-06-07_202128.zip
+.vscode

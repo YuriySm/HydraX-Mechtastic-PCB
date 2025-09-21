@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "HydraLib")(type "KiCad")(uri "${KIPRJMOD}/HydraLib.kicad_sym")(options "")(descr ""))
-  (lib (name "hydra_core_symbol")(type "KiCad")(uri "${KIPRJMOD}/hydra_core_symbol.kicad_sym")(options "")(descr ""))
-)
