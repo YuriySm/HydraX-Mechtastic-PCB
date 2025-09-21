@@ -67,6 +67,8 @@ HydraX — це форк [Project Hydra (Meshtastic PCB)](https://github.com/Hyd
 
 [![Схема HydraX Mechtatic PCB](media/HydraX-Mechtatic-PCB-schematic-preview.png)](media/HydraX-Mechtatic-PCB-v2.2.pdf)
 
+Проєкт було створено в [KiCad](https://www.kicad.org/) 9.0.4.
+
 ## Збірка
 
 ### Попередження
