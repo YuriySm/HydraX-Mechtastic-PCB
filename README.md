@@ -68,6 +68,8 @@ Clickable:
 
 [![HydraX Mechtatic PCB schematic](media/HydraX-Mechtatic-PCB-schematic-preview.png)](media/HydraX-Mechtatic-PCB-v2.2.pdf)
 
+Project was created in [KiCad](https://www.kicad.org/) 9.0.4.
+
 ## Assembly
 
 ### Warnings
