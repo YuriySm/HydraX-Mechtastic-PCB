@@ -76,7 +76,7 @@ Project was created in [KiCad](https://www.kicad.org/) 9.0.4.
 
 Use either **R10** *or* **R11** resistor, not both.  R10 is for a 3.3V power output for GPS or other peripherals, R11 is for a 5V.
 
-*Do not* solder **R15** if you control GPS power via software.
+*Do not* solder **R16** if board powers GPS.
 
 Do not solder **U4**, **C7**, **J3** (the 5V regulator) if you are using an external 5V power source.
 
